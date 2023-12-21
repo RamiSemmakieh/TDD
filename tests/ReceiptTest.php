@@ -54,7 +54,7 @@
         public function provideProduct() {
             return [
                 'ints_totaal_24' => [[56, 128, 89, 24, 133, 233, 212, 23], 2313505327644672, "Eerste test"],
-                [[2,5], 10, "Tweede test"],
+                [[2,52], 10, "Tweede test"],
                 [[2,5,5], 50, "Derde test"],
                 [[2,5,5,5], 250, "Vierde test"],
                 [[2,5,5,5,5], 1250, " zesde"]
